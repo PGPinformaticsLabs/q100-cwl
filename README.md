@@ -38,9 +38,9 @@ short reads alone.
 
 ### What is a "Q100" genome?
 
-Very simply speaking, a genome can be seen as a string of letters (base pairs)
-from the alphabet of four elements "ACGT", the four nucleobases that encode an
-someone's genetic information in DNA.
+Very simply speaking, we can see the human genome as a string of letters (base
+pairs) from the alphabet of four elements "ACGT", the four nucleobases that
+encode an someone's genetic information in DNA.
 
 A "Q score" (technically, the logarithmic [Phred quality score][phred]) of Q100
 means an error rate not exceeding one in 10 ^ 10 base pairs in the full genomic
