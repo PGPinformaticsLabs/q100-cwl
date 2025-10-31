@@ -69,7 +69,7 @@ that empowers the user to define, run, test, and share workflows. It is
 perfectly suited to data-driven development that involves complex operations,
 voluminous inputs, and most importantly, open collaboration among teams and
 communities. CWL is a generic workflow language, it is already widely adopted
-among the bioinformatics world.
+among the bioinformatics world. CWL has a [user guide](https://www.commonwl.org/user_guide/).
 
 CWL embodies the [FAIR principles][fair] -- scientific data and workflows
 should be Findable, Accessible, Interoperable, and Reusable. The public nature
