@@ -7,7 +7,7 @@ doc: |
 
 requirements:
   DockerRequirement:
-    dockerPull: quay.io/biocontainers/minimap2:2.28--h7132678_2
+    dockerPull: quay.io/biocontainers/minimap2:2.30--h577a1d6_0
 
 inputs:
   reference:
