@@ -1,0 +1,8 @@
+read_type: "--nano-raw"
+reads:
+  class: File
+  location: tests/data/example_reads.fastq
+  format: http://edamontology.org/format_1930
+out_dir: flye_out
+genome_size: "100k"
+threads: 4
