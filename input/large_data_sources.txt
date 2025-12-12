@@ -1,0 +1,5 @@
+Both hg002v1.0.1_hifi_revio_pbmay.bam and hg002v1.0.1_hifi_revio_pbmay.bam.bai are from
+https://github.com/marbl/HG002/blob/main/Sequencing_data.md, within the "newly available 
+HiFi Revio dataset for HG002 has been provided by PacBio and is posted on AWS," available
+from https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/HG002/assemblies/polishing/HG002/v1.0/mapping/hifi_revio_pbmay24/hg002v1.0.1_hifi_revio_pbmay24.bam
+and https://s3-us-west-2.amazonaws.com/human-pangenomics/T2T/HG002/assemblies/polishing/HG002/v1.0/mapping/hifi_revio_pbmay24/.
