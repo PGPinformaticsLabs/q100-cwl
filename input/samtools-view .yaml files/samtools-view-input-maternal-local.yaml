@@ -1,0 +1,7 @@
+bam:
+  class: File
+  path: /home/sgars/q100-cwl/q100-cwl/large_data/hg002v1.0.1_hifi_revio_pbmay24.bam
+
+region: "chr6_MATERNAL:28500000-33500000"
+
+output_bam_name: "HG002_HLA_MATERNAL.bam"

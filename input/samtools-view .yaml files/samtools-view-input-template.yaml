@@ -1,0 +1,9 @@
+bam:
+  class: File
+  path: path/to/your/input.bam
+
+#"chr6:28500000-33500000" for the HLA region on GRCh38
+region: "chr:start-end"
+
+output_bam_name: "subset.bam"
+
